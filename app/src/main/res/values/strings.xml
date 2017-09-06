@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidLoc</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">OK</string>
+    <string name="title_location_permission">Access to your location needed.</string>
+    <string name="text_location_permission">This application needs to access your location, please.</string>
+    <string name="LocationNotGranted">This application won\'t be able to carry out it\'s task properly, since you have not granted access to your location.</string>
+    <string name="userCurrentLocation">Your current location</string>
+</resources>
